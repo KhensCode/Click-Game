@@ -1,32 +1,16 @@
-# 🎯 Click Game Playground
+Click Game Playground
+This interactive click-based game is built using pure HTML, CSS, and JavaScript. Press "Start Game" to chase a bouncing target on your screen for 10 seconds—each successful click increases your score. Includes a sleek dark mode toggle and smooth animations for a fun and lightweight user experience.
 
-A fun, browser-based click challenge game with theme toggling and real-time score updates. Built with vanilla HTML, CSS, and JavaScript — no frameworks required!
+✨ Features
+Real-time score tracking and moving click target
 
-> 🔗 [Live Demo on CodePen](https://codepen.io/KhensCode/pen/ogjvoBy)
+Simple 10-second gameplay loop for quick fun
 
----
+Theme toggle for Light/Dark mode
 
-## 📸 Preview
+Responsive layout with clean visual design
 
-![Click Game Screenshot](https://via.placeholder.com/800x450.png?text=Click+Game+Preview)
+No frameworks—just vanilla HTML/CSS/JS
 
----
-
-## 🚀 Features
-
-- ✅ Score counter with real-time updates
-- 🕹️ 10-second timed challenge
-- 🌗 Toggle between Light and Dark mode
-- 🎯 Moving target animation
-- 💡 Minimal, responsive UI using `Segoe UI`
-
----
-
-## 🔧 Getting Started
-
-### Clone and Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/click-game-playground.git
-cd click-game-playground
-# Then open index.html in your browser
+🔗 Live Demo
+👉 Play on CodePen:https://codepen.io/KhensCode/pen/ogjvoBy
